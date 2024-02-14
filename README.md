@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# MoveInSync
-=======
-# EV-DASHBOARD
->>>>>>> 92add0d56b3c765dc3b56684c84c1c78d2f9b815
-=======
-# EV-DASHBOARD
->>>>>>> origin/main
+To Run the above project the steps are given below:-
+Step1 :- First =ly clone the project in your computer 
+Step2 :- After cloning you need to run this command in the terminal
+The command is $ npm install react-scripts --save-dev  
+Step3 :- You can run the project by using npm start
