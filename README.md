@@ -7,9 +7,6 @@
  -   Step3 :- You can run the project by using npm start
 
 
-[EVDashboard Video](https://drive.google.com/file/d/1K5w8C-WDFssYCv4HGXsNENahLVpaG1f2/view?usp=sharing)
-
-[Sorted table Implementation Video Link](https://drive.google.com/file/d/1E8oCcY7Qvq8rVwAsDbZ4inKsJQV0eVau/view?usp=sharing)
 
 
 
