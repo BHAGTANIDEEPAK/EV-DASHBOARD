@@ -29,7 +29,7 @@ export default function Sidebar() {
         <div className="top">
           <div className="brand">
             <img src={headlogo} alt="" />
-            <span>MoveInSync</span>
+            <span>EV Dashboard</span>
           </div>
           <div className="toggle"></div>
           <div className="links">
